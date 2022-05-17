@@ -3,7 +3,7 @@
 // import './index.scss';
 // import { App } from './App';
 
-export const App = () => {
+const App = () => {
   return (
     <div className="starter">
       <section className="position">
